@@ -1,0 +1,108 @@
+@font-face {
+  font-family: 'contis-Icon';
+  src:  url('../fonts/contis-Icon16c9.eot?n2py4q');
+  src:  url('../fonts/contis-Icon16c9.eot?n2py4q#iefix') format('embedded-opentype'),
+    url('../fonts/contis-Icon16c9.ttf?n2py4q') format('truetype'),
+    url('../fonts/contis-Icon16c9.woff?n2py4q') format('woff'),
+    url('../fonts/contis-Icon16c9.svg?n2py4q#contis-Icon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="ca-icon-"], [class*=" ca-icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'contis-Icon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.ca-icon-slide-search:before {
+  content: "\e900";
+}
+.ca-icon-ticket-star:before {
+  content: "\e901";
+}
+.ca-icon-twitter:before {
+  content: "\e902";
+  color: #47acdf;
+}
+.ca-icon-instagram .path1:before {
+  content: "\e903";
+  color: rgb(0, 0, 0);
+}
+.ca-icon-instagram .path2:before {
+  content: "\e904";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.ca-icon-instagram .path3:before {
+  content: "\e905";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.ca-icon-instagram .path4:before {
+  content: "\e906";
+  margin-left: -1em;
+  color: rgb(250, 250, 250);
+}
+.ca-icon-instagram .path5:before {
+  content: "\e907";
+  margin-left: -1em;
+  color: rgb(250, 250, 250);
+}
+.ca-icon-instagram .path6:before {
+  content: "\e908";
+  margin-left: -1em;
+  color: rgb(250, 250, 250);
+}
+.ca-icon-bag:before {
+  content: "\e909";
+}
+.ca-icon-bookmark:before {
+  content: "\e90a";
+}
+.ca-icon-chat-paste-go:before {
+  content: "\e90b";
+}
+.ca-icon-check:before {
+  content: "\e90c";
+}
+.ca-icon-document:before {
+  content: "\e90d";
+}
+.ca-icon-edit-pen:before {
+  content: "\e90e";
+}
+.ca-icon-facebook .path1:before {
+  content: "\e90f";
+  color: rgb(0, 0, 0);
+}
+.ca-icon-facebook .path2:before {
+  content: "\e910";
+  margin-left: -1em;
+  color: rgb(250, 250, 250);
+}
+.ca-icon-graph:before {
+  content: "\e911";
+}
+.ca-icon-hero:before {
+  content: "\e912";
+}
+.ca-icon-language:before {
+  content: "\e913";
+}
+.ca-icon-message-fast:before {
+  content: "\e914";
+}
+.ca-icon-mingcute_brain:before {
+  content: "\e915";
+}
